@@ -1,0 +1,15 @@
+{
+  "name": "15_pdf-to-sheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vivek tripathi",
+  "license": "ISC",
+  "dependencies": {
+    "google-spreadsheet": "^3.3.0",
+    "pdfreader": "^2.0.0"
+  }
+}
